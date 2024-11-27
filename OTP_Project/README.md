@@ -46,9 +46,9 @@ https://github.com/user-attachments/assets/3994ed16-ffc2-48f2-a90f-1a9e12d0a160
   - Challenge-Response 기법 적용한 안심번호 생성
   - QR 코드 생성 및 안심번호 연동
 - 알고리즘 구체화 및 PPT 제작
-  - 지문의 해쉬 값 생성 및 안심번호와 QR코드 생성
+  - 지문의 해쉬 값 생성 및 안심번호와 QR코드 생성<br>
+
+[*발표 자료](https://github.com/suin420/Projects/blob/main/OTP_Project/Presentation.pdf)
 <br><br>
 ## 배우고 느낀 점
 이번 프로젝트에서는 일회용 비밀번호(OTP) 기술을 실제 생활에 어떻게 적용할 수 있을지 고민하며, 간단한 서버-클라이언트 시스템을 구현하였다. 처음에는 클라이언트 측만 구현하다 보니, OTP를 처리하는 데 있어 어려움이 있었는데, 팀원들이 구축한 서버 덕분에 OTP 발급과 검증이 원할히 이루어졌다. 이를 통해 서버의 중요성을 실감했고, 완성도 높은 프로젝트를 마무리할 수 있어 뿌듯했다.
-
-[*발표 자료](https://github.com/suin420/Projects/blob/main/OTP_Project/Presentation.pdf)
