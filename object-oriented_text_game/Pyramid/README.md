@@ -1,0 +1,1 @@
+Pyramid 폴더 안에 모든 코드 파일을 넣고, GameLauncher.java를 실행하시면 됩니다.
